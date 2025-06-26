@@ -1,5 +1,9 @@
 # UMG Product Analyst Challenge
 
+### Important Links
+* Link to Script: https://colab.research.google.com/drive/1uxSJVZykEZwvFODMjSZs4hjQ92zzJWJ4?usp=sharing
+* Link to Dashboard: https://lookerstudio.google.com/reporting/cc1a7ae8-f7e8-410e-b0b8-79f609781ef3
+
 ### How I Would Approach the Problem
 
 1. Identify individual tasks within the problem statement and understand the business impact of each outcome.
