@@ -1,5 +1,4 @@
 # UMG Product Analyst Challenge
-## My Solution
 
 ### How I Would Approach the Problem
 
@@ -57,7 +56,7 @@
 
 ### How I Would Run the Solution
 
-* I created a script (shared as a Google Colab notebook) to generate the required views and store the output as CSV (which can be changed to any other format for easier visualization).
+* I created a script in a [Google Colab notebook](https://colab.research.google.com/drive/1uxSJVZykEZwvFODMjSZs4hjQ92zzJWJ4?usp=sharing) to generate the required views and store the output as CSV (which can be changed to any other format for easier visualization).
 * The script can be scheduled to run automatically via a cron job or scheduler.
 
 ### How I Would Verify the Solution
@@ -78,8 +77,8 @@
 
 ### How I Would Optimize the Solution
 
-* **Query Optimization:** Filter data early; leverage date partitioning if available.
-* **Storage Optimization:** Store views in Parquet for better compression and partition by relevant columns (e.g., country for the Top 50 tracks view).
+* **In terms of Query Optimization:-** Filter data early; leverage date partitioning if available.
+* **For Storage Optimization:-** Store views in Parquet for better compression and partition by relevant columns (e.g., country for the Top 50 tracks view).
 
 ### Other Considerations
 
